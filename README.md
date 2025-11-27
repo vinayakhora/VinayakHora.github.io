@@ -1,11 +1,3 @@
-# Privacy Policy
-Vinayak Hora Astrology Software Application
-
-Below is the **updated and Google Play–compliant Privacy Policy** for **Vinayak Hora**, now including the use of **Google Analytics** and **Firebase Analytics**.
-**Last Updated date included: 27 November 2025**
-
----
-
 # **Privacy Policy for Vinayak Hora**
 
 **Last Updated:** 27 November 2025
@@ -118,14 +110,7 @@ Users are encouraged to review this document periodically.
 For questions or concerns regarding this Privacy Policy, please contact:
 
 **Ram Mohan Kapil**
-Email: *[your email]*
+Email: *vinayakhora@gmail.com*
 India
 
 ---
-
-If you'd like, I can also prepare:
-✔ A **Google Play Data Safety Form** filled-out version
-✔ A **clean HTML page** for uploading as your Privacy Policy URL
-✔ A **PDF version** of this policy
-
-Just let me know!
