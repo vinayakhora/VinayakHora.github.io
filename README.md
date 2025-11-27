@@ -1,113 +1,127 @@
+Below is a **GitHub Pages–friendly** version of your Privacy Policy.
+It is formatted in clean Markdown (`.md`) with headings, spacing, and link styles that render perfectly on GitHub Pages.
+
+You can copy-paste this into a file such as:
+
+**`docs/privacy-policy.md`** or **`privacy-policy.md`**
+
+---
+
 # **Privacy Policy for Vinayak Hora**
 
-**Last Updated:** 27 November 2025
+**Last Updated:** **27 November 2025**
+**Author / Developer:** **Ram Mohan Kapil**
+**Application Name:** **Vinayak Hora**
+**Category:** Astrology / Vedic Jyotish
+**Platform:** Android (Google Play Store)
 
-* **Author / Developer:** Ram Mohan Kapil
-* **Application Name:** *Vinayak Hora*
-* **Category:** Astrology / Vedic Jyotish
-* **Platform:** Android (Google Play Store)
+---
 
---- 
- 
-## **1. Introduction**
+## 1. Introduction
 
 Vinayak Hora (“the App”) is an Astrology / Vedic Jyotish mobile application developed by **Ram Mohan Kapil**.
+
 This Privacy Policy describes how the App handles user data in compliance with Google Play requirements.
 
-The App performs all astrology calculations on the device.
-However, **basic usage analytics** are collected through trusted third-party services to help improve the App.
+The App performs all astrology calculations **locally on the device**.
+However, the App uses **third-party analytics services** to collect basic usage data that helps improve the App.
 
-The App does **not** collect any personal or sensitive user information such as names, contact information, or horoscope data of users or their clients.
+The App does **not** collect or store any personal or sensitive information such as:
+
+* Names
+* Contact details
+* Addresses
+* Horoscope data entered by users or their clients
 
 ---
 
-## **2. Information We Collect**
+## 2. Information We Collect
 
-The App itself does **not** collect or store any personally identifiable information.
+The App itself does **not** collect personally identifiable information.
 
-However, the following **non-personal, aggregated, and anonymized information** may be collected automatically through third-party analytics services:
+However, certain **non-personal, aggregated, and anonymized data** may be collected automatically by third-party analytics services. This may include:
 
 * App usage statistics
-* Device information (device model, OS version, app version)
-* Crash logs
-* General behavioral analytics (such as screens visited, session duration)
+* Device information (model, OS version, app version)
+* Crash logs and performance metrics
+* Session data (screens visited, session duration)
 
-**No personal horoscope data or birth details entered by the user are collected or transmitted.**
+**No astrology input data (birth details, charts, etc.) is collected or transmitted.**
 
 ---
 
-## **3. Third-Party Services**
+## 3. Third-Party Services
 
-The App uses the following third-party services for analytics and performance monitoring:
+The App uses the following third-party services:
 
-### **Google Analytics for Firebase / Firebase Analytics**
+### Google Analytics for Firebase / Firebase Analytics
 
 These services may collect:
 
-* Device identifiers (Android Advertising ID)
-* Usage data (events, sessions, interactions)
-* Crash and performance data via Firebase Crashlytics
+* Device identifiers (e.g., Android Advertising ID)
+* Usage data such as events, interactions, and session details
+* Crash logs and performance data via Firebase Crashlytics
 
-Data collected by these services is anonymized and used only to understand app performance and improve user experience.
+All analytics data collected is anonymized and used solely to understand app performance and improve functionality.
 
-You may review their privacy policies here:
+Privacy Policies for these services:
 
-* **Google Play Services / Firebase**: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-* **Firebase Analytics**: [https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)
+* Google Play Services / Firebase:
+  [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* Firebase Analytics:
+  [https://firebase.google.com/support/privacy/](https://firebase.google.com/support/privacy/)
 
-The App does **not** use this data to identify users or store any astrology-related inputs.
-
----
-
-## **4. Data Storage and Transmission**
-
-* All astrology calculations happen **locally on your device**.
-* No horoscope details, client details, birth data, or user-entered information is uploaded or stored by the developer.
-* Analytics data collected by third-party services is stored on their servers according to their own privacy policies.
-
-The developer does not have access to any personally identifiable analytics data.
+The developer does not collect or have access to any personally identifiable information.
 
 ---
 
-## **5. Children’s Privacy**
+## 4. Data Storage and Transmission
+
+* All astrology-related computations occur **locally on your device**.
+* The App does **not** upload or store horoscope or client-related data.
+* Only anonymized analytics data (as described above) is transmitted to third-party servers.
+
+---
+
+## 5. Children’s Privacy
 
 The App does not knowingly collect personal information from children under 13.
-Analytics data collected by third parties is anonymous and does not identify users.
+Analytics data collected by third-party services is anonymous and does not identify users.
 
-The App is intended for adult use by Astrology practitioners.
-
----
-
-## **6. Security**
-
-* As no personal data is collected or stored by the App, risks related to data breaches are minimal.
-* Data handled by third-party analytics services is securely processed according to their industry-standard security practices.
+The App is intended primarily for adult users such as Astrology practitioners.
 
 ---
 
-## **7. Permissions Used by the App**
+## 6. Security
 
-Depending on functionality, the App may request certain permissions such as:
-
-* **Internet Access** – Required for analytics services and time-syncing.
-* **Storage Access** (if applicable) – Only to allow users to save or export charts.
-
-**These permissions are not used to collect personal data.**
+Since the App does not collect or store personal data, data-breach risks are minimal.
+Analytics data processed by third-party services is managed according to their security standards.
 
 ---
 
-## **8. Changes to This Privacy Policy**
+## 7. App Permissions
 
-This Privacy Policy may be updated from time to time.
-Changes will be reflected by updating the “Last Updated” date at the top.
+Depending on specific features, the App may request:
 
-Users are encouraged to review this document periodically.
+* **Internet access** – Required for analytics and time syncing.
+* **Storage access** (if applicable) – Used only to save or export charts.
+
+These permissions are **not** used to collect any personal data.
 
 ---
 
-## **9. Contact Information**
+## 8. Changes to This Privacy Policy
 
-For questions or concerns regarding this Privacy Policy, please contact:
+This Privacy Policy may be updated periodically.
+Any changes will be reflected by updating the **"Last Updated"** date at the top of this document.
+
+Users are encouraged to review this page from time to time.
+
+---
+
+## 9. Contact Information
+
+If you have any questions about this Privacy Policy, please contact:
 
 **Ram Mohan Kapil**
 Email: *vinayakhora@gmail.com*
