@@ -8,7 +8,7 @@
 * **Platform:** Android (Google Play Store)
 
 --- 
-
+ 
 ## **1. Introduction**
 
 Vinayak Hora (“the App”) is an Astrology / Vedic Jyotish mobile application developed by **Ram Mohan Kapil**.
