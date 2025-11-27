@@ -1,12 +1,3 @@
-Below is a **GitHub Pages–friendly** version of your Privacy Policy.
-It is formatted in clean Markdown (`.md`) with headings, spacing, and link styles that render perfectly on GitHub Pages.
-
-You can copy-paste this into a file such as:
-
-**`docs/privacy-policy.md`** or **`privacy-policy.md`**
-
----
-
 # **Privacy Policy for Vinayak Hora**
 
 **Last Updated:** **27 November 2025**
