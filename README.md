@@ -7,7 +7,7 @@
 **Category:** Astrology / Vedic Jyotish
 **Platform:** Android (Google Play Store)
 
----
+--- 
 
 ## **1. Introduction**
 
