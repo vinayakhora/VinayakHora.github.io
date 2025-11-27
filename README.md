@@ -2,10 +2,10 @@
 
 **Last Updated:** 27 November 2025
 
-**Author / Developer:** Ram Mohan Kapil
-**Application Name:** *Vinayak Hora*
-**Category:** Astrology / Vedic Jyotish
-**Platform:** Android (Google Play Store)
+* **Author / Developer:** Ram Mohan Kapil
+* **Application Name:** *Vinayak Hora*
+* **Category:** Astrology / Vedic Jyotish
+* **Platform:** Android (Google Play Store)
 
 --- 
 
